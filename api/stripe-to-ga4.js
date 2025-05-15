@@ -70,8 +70,8 @@ export default async function handler(req, res) {
 
 /*
 ⚙️ Variáveis de ambiente (configure na Vercel):
-  STRIPE_SECRET_KEY       = sk_live_...
-  STRIPE_WEBHOOK_SECRET   = whsec_...
+  STRIPE_SECRET_KEY       = sk_live_
+  STRIPE_WEBHOOK_SECRET   = whsec_
   GA_MEASUREMENT_ID       = G-DYX8LQJZFY
   GA_API_SECRET           = thS3ewEXSw6k1Ed0ZXVmsw
 */
